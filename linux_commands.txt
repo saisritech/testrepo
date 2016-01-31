@@ -1,0 +1,16 @@
+cd
+pwd
+ls
+cmp
+diff
+uname
+lsb_release
+chmod
+chown
+
+symlink
+hardlink
+find
+grep
+sed
+awk
